@@ -5,6 +5,7 @@
 
 **Details :**
 1. <a href="https://github.com/BandiniBhopi2608/Real-Time-Facial-Expression-Recognition/wiki">Home</a><br/>
+2. <a href="https://github.com/BandiniBhopi2608/Real-Time-Facial-Expression-Recognition/wiki/Architecture">Architecture</a><br/>
 
 # Demo 
 You can find a complete demo of facial expression recognition application <a href="https://www.youtube.com/watch?v=JPvsOuq8R-I">here</a> <br>
